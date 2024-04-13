@@ -1,0 +1,12 @@
+.left, .right{
+    font-size: 28px;
+    font-family: Helvtica, "Times New Roman", sans-serif;
+}
+.left{
+    color: white;
+    background-color: black;
+    font-weight: bold;
+}
+.right{
+    background-color: yellow;
+}
