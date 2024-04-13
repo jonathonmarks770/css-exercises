@@ -1,17 +1,17 @@
-p{
+.odd{
     background-color: rgb(231, 134, 134);
     font-family: Verdana, dejavu sans, sans-serif;
 }
-#Number-2{
-    color: rgb(0,0,255);
+#two{
+    color: #0000ff;
     font-size: 36px;
 }
-.Number-3 {
+.adjust-font-size {
     font-size: 24px;
 }
 
-#Number-4{
+#four{
     background-color: rgb(144,238,144);
     font-weight: 700;
-    font-size: 24px
+    
 }
